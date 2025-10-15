@@ -1,5 +1,5 @@
 # p365kumar
-Senior Angular + Full Stack .NET Engineer | Cloud | Azure | AWS | Microservices | MFE | CI/CD
+Technical Lead in Angular + Full Stack .NET | Cloud | Azure | AWS | Microservices | MFE | CI/CD
 # 👋 Hi, I'm Prem  Bandari
 
 🚀 **Senior Angular + Full Stack .NET  Engineer** with 13+ years of experience building scalable, enterprise-grade applications across finance, cloud, and digital transformation domains.
